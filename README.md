@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K111TP74)
+
 🍞🧈
 <p align="center">
   <a href="https://skillicons.dev">
