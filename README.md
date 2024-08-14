@@ -1,6 +1,6 @@
-👨‍💻
+
  
- 
+	      👩‍💻
  	♖♘♗♕♔♗♘♖
  	♙♙♙♙♙♙♙♙
 	 ◼◻◼◻◼◻◼◻
@@ -9,7 +9,7 @@
   	 ◻◼◻◼◻◼◻◼
  	♟♟♟◻♟♟♟♟
  	♜♞♝♛♚♝♞♜
-	
+	      👨‍💻
 
 
 
@@ -24,7 +24,7 @@
 🌱
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=julia,supabase,arduino,mysql,lua,opencv,postgres,zig,obsidian&perline=4"/>
+    <img src="https://skillicons.dev/icons?i=julia,supabase,arduino,mysql,lua,opencv,postgres,zig&perline=4"/>
   </a>
 </p>
 
