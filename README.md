@@ -1,4 +1,4 @@
-<img src="./naomi.png">
+
 
 	      👩‍💻
 	 ♖♘♗♕♔♗♘♖
@@ -74,3 +74,8 @@
 ![Visitor Count](https://profile-counter.glitch.me/Mister-Click/count.svg)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K111TP74)
+
+
+
+
+<img src="./naomi.png">
