@@ -73,8 +73,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Mister-Click/count.svg)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](ko-fi.com/softbreadsoft
-)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](ko-fi.com/softbreadsoft)
 
 
 
