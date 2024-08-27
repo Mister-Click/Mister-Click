@@ -58,7 +58,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,vim,godot,blender,debian,windows,&perline=4"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,vim,godot,blender,debian,docker,windows,&perline=4"/>
   </a>
 </p>
 
